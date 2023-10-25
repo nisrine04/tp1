@@ -75,7 +75,7 @@
     cursor: pointer;
     background-color: #f94892;
     color: #fff;
-    transition: all 0.2s ease-in;
+    transition: all 0.1s ease-in;
   }
   
   .btn:nth-child(17) {
